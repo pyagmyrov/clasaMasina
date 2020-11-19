@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605828543 source:c:\users\webmates\documents\lab2\main.cpp
+	<iostream>
+	"Masina.h"
+	<fstream>
+
+1605828389 c:\users\webmates\documents\lab2\masina.h
+	<iostream>
+
+1605828389 source:c:\users\webmates\documents\lab2\masina.cpp
+	"Masina.h"
+	<iostream>
+
